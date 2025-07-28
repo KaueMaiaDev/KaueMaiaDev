@@ -12,8 +12,8 @@
 
 💻 Desenvolvedor apaixonado por criar soluções inovadoras  
 🚀 Focado em criar soluções que fazem a diferença 
-📚 Sempre aprendendo novas tecnologias  
 🌟 Transformando ideias em código
+📚 Sempre aprendendo novas tecnologias  
 
 ---
 
