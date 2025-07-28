@@ -11,9 +11,9 @@
 ## 😎 Sobre Mim
 
 💻 Desenvolvedor apaixonado por criar soluções inovadoras  
+📚 Sempre aprendendo novas tecnologias  
 🚀 Focado em criar soluções que fazem a diferença 
 🌟 Transformando ideias em código
-📚 Sempre aprendendo novas tecnologias  
 
 ---
 
