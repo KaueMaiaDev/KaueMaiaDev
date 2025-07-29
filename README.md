@@ -1,109 +1,181 @@
-# 👨‍💻 Olá, eu sou Kauê Maia!
+# 👨‍💻 Gustavo Mendes | Desenvolvedor Full Stack
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Desenvolvedor+Full+Stack;Especialista+em+Automação;Apaixonado+por+Tecnologia;Transformando+ideias+em+código)
+### 🚀 Transformando ideias em código, código em soluções
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mendes-1569b2324)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guu_mendessss)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendexzz33@gmail.com)
 
 </div>
 
 ---
 
-## 😎 Sobre Mim
+## 🎯 Sobre Mim
 
-💻 Desenvolvedor apaixonado por criar soluções inovadoras  
-📚 Sempre aprendendo novas tecnologias  
-🚀 Focado em criar soluções que fazem a diferença 
-🌟 Transformando ideias em código
+*Desenvolvedor Full Stack* apaixonado por criar experiências digitais excepcionais do front-end ao back-end. Especializado em construir aplicações completas e escaláveis que conectam design intuitivo com arquiteturas robustas.
+
+🔭 *Foco atual:*
+- Desenvolvimento de aplicações web modernas e responsivas
+- Arquiteturas de API REST e integração de sistemas
+- Otimização de performance e experiência do usuário
+- Projetos com impacto real no mundo digital
+
+💡 *Paixões:*
+- Resolver problemas complexos com código elegante
+- Criar interfaces que encantam usuários
+- Construir sistemas escaláveis e maintíveis
+- Aprender novas tecnologias e compartilhar conhecimento
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🛠 Stack Tecnológico
 
 <div align="center">
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Automação & DevOps
-![Automation](https://img.shields.io/badge/Automação-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tools & Environment
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎨 Expertise por Stack
+
+### *🎨 Frontend Development*
+javascript
+const frontendSkills = {
+  markup: ["HTML5 Semântico", "CSS3 Moderno", "Responsive Design"],
+  scripting: ["JavaScript ES6+", "DOM Manipulation", "Async Programming"],
+  frameworks: ["React.js", "Hooks", "Context API", "Component Architecture"],
+  styling: ["Flexbox", "Grid", "Animations", "Mobile-First Design"]
+};
+
+
+### *⚙ Backend Development*
+python
+backend_skills = {
+    "python": ["Django", "Flask", "FastAPI", "Data Processing"],
+    "nodejs": ["Express.js", "RESTful APIs", "Middleware", "NPM Ecosystem"],
+    "csharp": [".NET Core", "ASP.NET", "Entity Framework", "Web APIs"],
+    "java": ["Spring Boot", "JPA/Hibernate", "Maven", "Enterprise Apps"]
+}
+
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaueMaiaDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMaiaDev&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo3334&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo3334&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
----
-
-## 🎯 Projetos em Destaque
 
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_PROJETO&theme=tokyonight&hide_border=true)](https://github.com/SEU_USERNAME/NOME_DO_PROJETO)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=OUTRO_PROJETO&theme=tokyonight&hide_border=true)](https://github.com/SEU_USERNAME/OUTRO_PROJETO)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gustavo3334&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Contribuições
+## 💻 Ambiente de Desenvolvimento
+
+json
+{
+  "workstation": {
+    "os": "Desenvolvedor multiplataforma",
+    "editor": "VS Code com extensões otimizadas",
+    "terminal": "Git Bash / PowerShell / Terminal integrado",
+    "workflow": "Git Flow + GitHub + Deploy automatizado"
+  },
+  "preferencias": {
+    "frontend": "React para interfaces dinâmicas",
+    "backend": "Node.js para rapidez, Python para robustez",
+    "database": "Escolha baseada no projeto",
+    "deployment": "Cloud-first thinking"
+  }
+}
+
+
+---
+
+## 🌟 Filosofia de Desenvolvimento
+
+### *🎯 Princípios que sigo:*
+- *🔥 Code Quality*: Clean code é código que outros podem entender
+- *⚡ Performance First*: Otimização desde o primeiro commit
+- *🎨 UX Centered*: Usuário no centro de cada decisão técnica
+- *📚 Never Stop Learning*: Tecnologia evolui, devs também devem evoluir
+- *🤝 Team Player*: Melhores soluções nascem da colaboração
+
+### *💡 Abordagem aos Projetos:*
+javascript
+const myApproach = {
+  planning: "Entender o problema antes de codar",
+  development: "Incremental, testável, documentado",
+  deployment: "Seguro, monitorado, escalável",
+  maintenance: "Refatoração contínua e melhorias",
+  learning: "Cada projeto ensina algo novo"
+};
+
+
+---
+
+## 🎯 Objetivos 2025
+
+- 🚀 *Dominar*: Arquiteturas de microsserviços e containerização
+- 📱 *Explorar*: Development mobile com React Native
+- ☁ *Aprender*: Cloud computing e DevOps practices
+- 🤖 *Experimentar*: IA e Machine Learning integrados às aplicações
+- 🌐 *Contribuir*: Mais projetos open source e comunidade dev
+
+---
+
+## 📞 Vamos Conectar?
+
+🎯 *Disponível para:*
+- Projetos full stack desafiadores
+- Colaborações em código aberto  
+- Consultorias técnicas e code review
+- Mentoria em desenvolvimento web
+- Networking e troca de experiências
 
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaueMaiaDev&theme=tokyo-night&hide_border=true&area=true)
+
+*📧 Email:* [mendexzz33@gmail.com](mailto:mendexzz33@gmail.com)  
+*💼 LinkedIn:* [gustavo-mendes-1569b2324](https://www.linkedin.com/in/gustavo-mendes-1569b2324)  
+*📸 Instagram:* [@guu_mendessss](https://www.instagram.com/guu_mendessss)
+
+---
+
+### 💭 "O melhor código é aquele que resolve problemas reais de pessoas reais"
+
+🔗 *Conecte-se comigo e vamos construir o futuro digital juntos!*
+
+⭐ *Se meus repositórios te inspiraram, deixe uma estrela - isso motiva muito!*
 
 </div>
 
 ---
 
-## 🤝 Vamos nos Conectar!
-
 <div align="center">
-
-### 💼 Conecte-se comigo no LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauê-maia)
-
-### 📧 Entre em Contato
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauemaiadev@gmail.com)
-
-### 🌐 Outras Redes
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaueMaiaDev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seuportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💫 "O código é poesia em movimento"
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Visualizações&color=58A6FF&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/KaueMaiaDev?label=Seguidores&style=for-the-badge&color=58A6FF)](https://github.com/KaueMaiaDev)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=gustavo3334&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
