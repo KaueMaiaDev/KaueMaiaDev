@@ -198,13 +198,10 @@ ascii
 
 ### *💰 Para Investidores*
 - *Sotech:* Plataforma no-code com marketplace integrado
-- *CloneXpert:* Nova categoria de produto (Digital Employee as a Service)
-- *Pitch Deck:* Disponível para investidores interessados em deep tech
 
 ### *👥 Para Desenvolvedores*
 - *Open Source:* Contribuições em projetos que impactam comunidade
 - *Technical Co-founder:* Para startups alinhadas com minha missão
-- *Mentoria:* Compartilhamento de conhecimento em full-stack e produto
 
 ---
 
