@@ -20,7 +20,6 @@
 
 🚀 *Criando o Futuro:*
 - *Sotech* - Democratizando o desenvolvimento com plataforma no-code revolucionária
-- *CloneXpert* - Primeira IA que trabalha como funcionário júnior executando tarefas reais
 
 💡 *Filosofia:*
 > "Tecnologia é ferramenta, impacto é o objetivo. Cada linha de código deve resolver um problema real."
