@@ -1,4 +1,4 @@
-# 🚀 Kauê Maia | Desenvolvedor Full Stack
+# 🚀 Kauê Maia | Desenvolvedor Software
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaueMaiaDevv)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauemaiadev@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Explorando+Novas+Tecnologias;Transformando+Ideias+em+Realidade" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Software;Explorando+Novas+Tecnologias;Transformando+Ideias+em+Realidade" alt="Typing SVG" />
 
 </div>
 
@@ -16,16 +16,10 @@
 
 ## 🎯 Sobre Mim
 
-Desenvolvedor Full Stack apaixonado por tecnologia. Não apenas escrevo código - busco criar soluções que resolvem problemas reais. Meu foco é em transformar ideias complexas em produtos digitais elegantes e funcionais.
+Desenvolvedor apaixonado por tecnologia. Não apenas escrevo código - busco criar soluções que resolvem problemas reais. Meu foco é em transformar ideias complexas em produtos digitais e funcionais.
 
 💡 *Filosofia:*
 > "Tecnologia é ferramenta, impacto é o objetivo. Cada linha de código deve resolver um problema real."
-
-🎯 *Especialidades:*
-- Desenvolvimento de aplicações full-stack
-- Criação de produtos SaaS, do conceito à implementação
-- Integração de IA em projetos práticos
-- Foco em UX/UI para criar interfaces intuitivas
 
 ---
 
@@ -56,12 +50,28 @@ Desenvolvedor Full Stack apaixonado por tecnologia. Não apenas escrevo código 
 
 ---
 
+## 💼 Projetos em Destaque
+
+### 💰 Financeiro Digital
+Aplicação desktop construída em *Java e JavaFX* para simplificar o controle de finanças pessoais. Substitui planilhas confusas por uma interface moderna e intuitiva, onde o usuário pode registrar despesas e visualizar instantaneamente onde seu dinheiro está indo através de painel de resumo e gráfico de pizza dinâmico.
+
+*Tecnologias:* Java | JavaFX | POO
+
+---
+
+### 🏦 Sistema Bancário
+Sistema bancário completo desenvolvido em *Python* com cadastro de clientes, validação de CPF, criação de contas e operações como saque, depósito, transferência e extrato. Estruturado com módulos separados e salvamento de dados localmente.
+
+*Tecnologias:* Python | Modularização | Persistência de Dados
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueMaiaDevv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMaiaDevv&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueMaiaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMaiaDev&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -73,11 +83,12 @@ Desenvolvedor Full Stack apaixonado por tecnologia. Não apenas escrevo código 
 
 ---
 
-## 📞 Vamos Construir Algo Juntos?
+## 📞 Vamos Conversar?
 
 <div align="center">
 
-### 🚀 "O futuro pertence àqueles que criam, não apenas consomem tecnologia"
+### 🎯 Aberto a novas oportunidades | Vamos construir algo juntos?
+
 
 *Pronto para transformar uma ideia em realidade digital?*
 
@@ -87,7 +98,6 @@ Desenvolvedor Full Stack apaixonado por tecnologia. Não apenas escrevo código 
 
 ---
 
-⭐ *Se meus projetos te inspiraram, deixe uma estrela nos repositórios!*  
-🔔 *Siga-me para acompanhar a jornada de desenvolvimento de novos projetos.*
+### "O futuro pertence àqueles que criam, não apenas consomem tecnologia"
 
 </div>
