@@ -3,7 +3,7 @@
 <div align="center">
 
 ### 🚀 Software Developer | Computer Science Student
-*Focado em criar soluções escaláveis com Java e Arquitetura de Software.*
+*Focado em criar soluções escaláveis e Arquitetura de Software.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauê%20Maia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauê-maia)
 [![Email](https://img.shields.io/badge/Email-Fale%20Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauemaiadev@gmail.com)
