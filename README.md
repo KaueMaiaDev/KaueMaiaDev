@@ -1,103 +1,73 @@
-# 🚀 Kauê Maia | Desenvolvedor Software
+# Hi there, I'm Kauê Maia 👋
 
 <div align="center">
-  
-### 💡 Criando o futuro do software: de ideias a soluções de código
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauê-maia)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaueMaiaDevv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauemaiadev@gmail.com)
+### 🚀 Software Developer | Computer Science Student
+*Focado em criar soluções escaláveis com Java e Arquitetura de Software.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Software;Explorando+Novas+Tecnologias;Transformando+Ideias+em+Realidade" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauê%20Maia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauê-maia)
+[![Email](https://img.shields.io/badge/Email-Fale%20Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauemaiadev@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Desenvolvedor apaixonado por tecnologia. Não apenas escrevo código - busco criar soluções que resolvem problemas reais. Meu foco é em transformar ideias complexas em produtos digitais e funcionais.
+Sou estudante de **Ciência da Computação** e Desenvolvedor de Software apaixonado por **Backend** e **Lógica de Negócio**. Meu foco atual é dominar o ecossistema **Java** e boas práticas de engenharia (Clean Code, SOLID e POO) para resolver problemas complexos.
 
-💡 *Filosofia:*
-> "Tecnologia é ferramenta, impacto é o objetivo. Cada linha de código deve resolver um problema real."
+* 🎓 **Formação:** Graduando em Ciência da Computação.
+* 💼 **Status:** Em busca de oportunidades como Estagiário ou Desenvolvedor Júnior.
+* 🌱 **Estudando:** Spring Boot, Arquitetura de Microsserviços e Docker.
+* 💡 **Interesses:** Desenvolvimento Backend, Automação e Fintechs.
 
 ---
 
-## 🛠 Arsenal Tecnológico
+## 🛠 Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-### ⚙ Backend 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-
-### 🔧  Ferramentas de Desenvolvimento
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+| **Linguagens** | **Frameworks & Libs** | **Banco de Dados** | **Ferramentas** |
+|:---:|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
 ---
 
-## 💼 Projetos em Destaque
+## 🏆 Projetos em Destaque
 
-### 💰 Financeiro Digital
-Aplicação desktop construída em *Java e JavaFX* para simplificar o controle de finanças pessoais. Substitui planilhas confusas por uma interface moderna e intuitiva, onde o usuário pode registrar despesas e visualizar instantaneamente onde seu dinheiro está indo através de painel de resumo e gráfico de pizza dinâmico.
+### 1. [Sistema Cashless para Eventos](LINK_DO_CASHLESS) 💳
+> *Simulador de ecossistema de pagamentos digitais para grandes eventos.*
+* **O Desafio:** Criar um sistema robusto de gestão de comandas com múltiplas regras de negócio financeiras.
+* **A Solução:** Implementei um algoritmo de **Pagamento Híbrido** (prioriza saldo bônus antes do real) e um sistema de **Cashback Dinâmico** baseado em Enums. O sistema gera extratos detalhados e trata exceções de forma segura.
+* **Tecnologias:** `Java 21`, `POO Avançada`, `Design Patterns (Strategy)`, `Clean Code`.
 
-*Tecnologias:* Java | JavaFX | POO
+### 2. [Financeiro Digital Desktop](LINK_DO_FINANCEIRO) 💰
+> *Aplicação Desktop com interface gráfica para controle financeiro pessoal.*
+* **O Desafio:** Substituir planilhas complexas por uma interface intuitiva e visual.
+* **A Solução:** Software desktop com dashboard interativo, gráficos dinâmicos e persistência de dados para categorização de gastos.
+* **Tecnologias:** `Java`, `JavaFX`, `CSS`, `MVC Architecture`.
+
+### 3. [Gerenciador de Tarefas (Console)](LINK_DO_TAREFAS) ✅
+> *Sistema CRUD completo para gestão de produtividade.*
+* **O Desafio:** Construir um gerenciador de dados eficiente sem depender de interface gráfica.
+* **A Solução:** Aplicação via terminal com menu interativo que permite criar, listar, editar, remover e marcar tarefas como concluídas, utilizando manipulação dinâmica de memória.
+* **Tecnologias:** `Java`, `Collections (ArrayList)`, `Lógica de Algoritmos`.
 
 ---
 
-### 🏦 Sistema Bancário
-Sistema bancário completo desenvolvido em *Python* com cadastro de clientes, validação de CPF, criação de contas e operações como saque, depósito, transferência e extrato. Estruturado com módulos separados e salvamento de dados localmente.
-
-*Tecnologias:* Python | Modularização | Persistência de Dados
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueMaiaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMaiaDev&layout=compact&langs_count=8&theme=tokyonight"/>
-
+  <a href="https://github.com/KaueMaiaDevv">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaueMaiaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMaiaDev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KaueMaiaDevv&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📞 Vamos Conversar?
+<br>
 
 <div align="center">
-
-### 🎯 Aberto a novas oportunidades | Vamos construir algo juntos?
-
-
-*Pronto para transformar uma ideia em realidade digital?*
-
-[![Email](https://img.shields.io/badge/Enviar%20Email-kauemaiadev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauemaiadev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-Kauê%20Maia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauê-maia)
-[![GitHub](https://img.shields.io/badge/Ver%20Projetos-KaueMaiaDevv-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaueMaiaDevv)
-
----
-
-### "O futuro pertence àqueles que criam, não apenas consomem tecnologia"
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer"/>
 </div>
